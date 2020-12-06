@@ -487,13 +487,13 @@ a[data-fancybox] img {
 
 .home-section {
   background-color: rgb(255, 255, 255);
-  padding: 110px 0 110px 0;
+  padding: 70px 0 70px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
 }
 
 .home-section:first-of-type {
-  padding-top: 50px;
+  padding-top: 25px;
 }
 
 .home-section:nth-of-type(even) {
