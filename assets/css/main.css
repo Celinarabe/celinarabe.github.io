@@ -294,7 +294,8 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: stretch;
+		align-items: center;
+
 	}
 
 		.row > * {
@@ -2357,6 +2358,15 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+	}
+
+	.profile-pic {
+		border-radius: 70%;
+		width:100%;
+	
+		align-items: center;
+		margin: 10px auto;
+
 	}
 
 		.image img {
