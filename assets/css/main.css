@@ -1159,6 +1159,7 @@ input, select, textarea {
 					width: 100%;
 				}
 
+
 				.row > .off-12-medium {
 					margin-left: 100%;
 				}
@@ -2362,7 +2363,7 @@ input, select, textarea {
 
 	.profile-pic {
 		border-radius: 70%;
-		width:100%;
+		width:50%;
 	
 		align-items: center;
 		margin: 10px auto;
